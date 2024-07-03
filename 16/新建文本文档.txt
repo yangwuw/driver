@@ -1,0 +1,6 @@
+A* 路径搜索算法介绍及完整代码 https://blog.csdn.net/Zhefan_Xu/article/details/119418568?spm=1001.2014.3001.5501
+
+LPA* 路径搜索算法介绍及完整代码   https://blog.csdn.net/Zhefan_Xu/article/details/119188277
+
+
+寻路算法——A*算法详解并附带实现代码  https://blog.csdn.net/nie2314550441/article/details/106733189
