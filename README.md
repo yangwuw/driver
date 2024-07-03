@@ -1,3 +1,7 @@
 # driver   #司机   司机
 data   数据
-安装anaconda
+环境准备
+安装vscode 
+安装anaconda 
+python3.8
+
